@@ -1,0 +1,5 @@
+Ogrenci No;Ogrenci;Program;Sinif;Email;Status
+31000000030;CEREN  AYDIN;Computer Engineering;2;ceren.aydin@tedu.edu.tr;
+31300000010;DURU  AY;Computer Engineering;2;duru.ay@tedu.edu.tr;
+80000000010;YESIM  KAMA;Computer Engineering;2;yesim.kama@tedu.edu.tr;
+50300000010;EREN  AY;Computer Engineering;2;eren.ay@tedu.edu.tr;

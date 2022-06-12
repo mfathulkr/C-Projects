@@ -1,0 +1,14 @@
+1: AMAC, DURU, Computer Engineering, 3, duru.amac@tedu.edu.tr
+2: AYDIN, CEREN, Computer Engineering, 2, ceren.aydin@tedu.edu.tr
+3: AYDIN, EREN, Computer Engineering, 2, eren.aydin@tedu.edu.tr
+4: AYDINLI, CEREN, Computer Engineering, 2, ceren.aydinli@tedu.edu.tr
+5: DUMAN, FEYZA NUR, Computer Engineering, 2, fnur.duman@tedu.edu.tr
+6: DUMANLI, FEYZA NUR, Computer Engineering, 2, fnur.dumanli@tedu.edu.tr
+7: KAMA, YESIM, Computer Engineering, 2, yesim.kama@tedu.edu.tr
+8: TERZI, SEVIL, Computer Engineering, 2, sevil.terzi@tedu.edu.tr
+9: YAMAC, DURU, Computer Engineering, 3, duru.yamac@tedu.edu.tr
+10: YAMAC, GOKHAN, Computer Engineering, 2, gokhan.yamac18@tedu.edu.tr
+11: YAMAC, GOKHAN, Computer Engineering, 2, gokhan.yamac@tedu.edu.tr
+12: YILMAZ, EDA NUR, Computer Engineering, 4, enur.yilmaz@tedu.edu.tr
+13: YILMAZ, EDANUR, Computer Engineering, 2, edanur.yilmaz@tedu.edu.tr
+14: YILMAZ, YAMAC, Computer Engineering, 2, yamac.yilmaz@tedu.edu.tr

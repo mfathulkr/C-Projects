@@ -1,0 +1,9 @@
+Ogrenci No;Ogrenci;Program;Sinif;Email;Status
+70000000010;GOKHAN     YAMAC;Computer Engineering;2;gokhan.yamac18@tedu.edu.tr;
+10000000000;EDA NUR   YILMAZ;Computer Engineering;4;enur.yilmaz@tedu.edu.tr;
+60000000020;EDANUR    YILMAZ;Computer Engineering;2;edanur.yilmaz@tedu.edu.tr;
+11000000010;FEYZA  NUR   DUMANLI;Computer Engineering;2;fnur.dumanli@tedu.edu.tr;
+31000000030;CEREN  AYDIN;Computer Engineering;2;ceren.aydin@tedu.edu.tr;
+31000000010;DURU  AMAC;Computer Engineering;3;duru.amac@tedu.edu.tr;
+80000000010;YESIM KAMA;Computer Engineering;2;yesim.kama@tedu.edu.tr;
+50000000010;EREN  AYDIN;Computer Engineering;2;eren.aydin@tedu.edu.tr;

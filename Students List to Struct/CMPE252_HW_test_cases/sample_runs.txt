@@ -1,0 +1,14 @@
+hw.exe course1.txt course2.txt course_1_2_intersect.txt -i
+hw.exe course1.txt course2.txt course_1_2_union.txt -u
+hw.exe course2.txt course3.txt course_2_3_intersect.txt -i
+hw.exe course2.txt course3.txt course_2_3_union.txt -u
+hw.exe course3.txt course3.txt course_3_3_intersect.txt -i
+hw.exe course3.txt course3.txt course_3_3_union.txt -u
+hw.exe course1.txt course3.txt course_1_3_intersect.txt -i
+hw.exe course1.txt course3.txt course_1_3_union.txt -u
+hw.exe course3.txt course4.txt course_3_4_intersect.txt -i
+hw.exe course3.txt course4.txt course_3_4_union.txt -u
+hw.exe course4.txt course3.txt course_4_3_intersect.txt -i
+hw.exe course4.txt course3.txt course_4_3_union.txt -u
+hw.exe course4.txt course5.txt course_4_5_intersect.txt -i
+hw.exe course4.txt course5.txt course_4_5_union.txt -u

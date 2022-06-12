@@ -1,0 +1,7 @@
+1: AY, DURU, Computer Engineering, 2, duru.ay@tedu.edu.tr
+2: AYDAN, SEVVAL, Industrial Engineering, 3, sevval.aydan@tedu.edu.tr
+3: KAMA, YESIM, Computer Engineering, 2, yesim.kama@tedu.edu.tr
+4: KANSU, MURAT, Computer Engineering, 4, murat.kansu@tedu.edu.tr
+5: KANSU, MURAT CAN, Computer Engineering, 2, mcan.kansu@tedu.edu.tr
+6: KANSU, MURATCAN, Computer Engineering, 2, muratcan.kansu@tedu.edu.tr
+7: YILDIZ, YESIM HALE GUL, Computer Engineering, 2, yhgul.yildiz@tedu.edu.tr

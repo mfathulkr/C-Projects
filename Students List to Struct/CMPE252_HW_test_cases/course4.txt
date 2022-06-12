@@ -1,0 +1,5 @@
+Ogrenci No;Ogrenci;Program;Sinif;Email;Status
+31040000030;MURAT  KANSU;Computer Engineering;4;murat.kansu@tedu.edu.tr;
+31300000010;DURU  AY;Computer Engineering;2;duru.ay@tedu.edu.tr;
+80000000010;YESIM  KAMA;Computer Engineering;2;yesim.kama@tedu.edu.tr;
+50340000010;SEVVAL  AYDAN;Industrial Engineering;3;sevval.aydan@tedu.edu.tr;W

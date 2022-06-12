@@ -1,0 +1,2 @@
+1: AY, DURU, Computer Engineering, 2, duru.ay@tedu.edu.tr
+2: KAMA, YESIM, Computer Engineering, 2, yesim.kama@tedu.edu.tr

@@ -1,0 +1,4 @@
+1: AYDIN, EREN, Computer Engineering, 2, eren.aydin@tedu.edu.tr
+2: YAMAC, GOKHAN, Computer Engineering, 2, gokhan.yamac18@tedu.edu.tr
+3: YILMAZ, EDA NUR, Computer Engineering, 4, enur.yilmaz@tedu.edu.tr
+4: YILMAZ, EDANUR, Computer Engineering, 2, edanur.yilmaz@tedu.edu.tr
